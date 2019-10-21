@@ -2,4 +2,21 @@ hello world
 burin
 nation
 mingw64
+<<<<<<< HEAD
+Praew
+=======
+<<<<<<< HEAD
+fon
+=======
+<<<<<<< HEAD
+Fluke
+Fluke
+=======
+non
+non
+>>>>>>> ef02a1bc4a62cb5bf93b9866971810064f7cd09c
+Fluke
+>>>>>>> f1bb1757aac124fb18d7da3ac235261f6aac77da
+fon
+>>>>>>> 507e5472253150a4580ad0657a3ad86cffbd9474
 Praew
