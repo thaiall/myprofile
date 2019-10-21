@@ -18,5 +18,11 @@ non
 Fluke
 >>>>>>> f1bb1757aac124fb18d7da3ac235261f6aac77da
 fon
+<<<<<<< HEAD
 >>>>>>> 507e5472253150a4580ad0657a3ad86cffbd9474
+Praew
+=======
+burin
+wawarn
+>>>>>>> d2e818e186da8f135037a28191fe779895466590
 Praew
