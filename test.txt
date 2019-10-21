@@ -2,5 +2,11 @@ hello world
 burin
 nation
 mingw64
+<<<<<<< HEAD
 Fluke
+Fluke
+=======
+non
+non
+>>>>>>> ef02a1bc4a62cb5bf93b9866971810064f7cd09c
 Fluke
