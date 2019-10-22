@@ -26,4 +26,15 @@ burin
 wawarn
 >>>>>>> d2e818e186da8f135037a28191fe779895466590
 Praew
+<<<<<<< HEAD
+mim
+=======
+burin
+<<<<<<< HEAD
+wiw
+=======
+com
+>>>>>>> 041691b183c2e25654589c198ffe5e7ebbd4e020
+wiw
+>>>>>>> 7be7391cc5f19fd976193b87aaf956042247246e
 mim
