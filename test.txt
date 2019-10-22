@@ -27,4 +27,9 @@ wawarn
 >>>>>>> d2e818e186da8f135037a28191fe779895466590
 Praew
 burin
+<<<<<<< HEAD
+wiw
+=======
+com
+>>>>>>> 041691b183c2e25654589c198ffe5e7ebbd4e020
 wiw
